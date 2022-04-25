@@ -1,0 +1,28 @@
+.outer{
+    font-family: 'Raleway', sans-serif;
+    height: 100%;
+    margin-top: 2%;
+}
+
+.heading {
+    font-weight: 900;
+    font-size: x-large;
+    color: black;
+}
+
+.heading2{
+    font-size: large;
+    font-weight: 900;
+    color: black;
+}
+
+.normaltext{
+    color: black;
+}
+
+.btn-primary{
+    background-color: #331d96 !important;
+    border-color: #331d96 !important;
+    height: 50px;
+    width: 150px;
+}
